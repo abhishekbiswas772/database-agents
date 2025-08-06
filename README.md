@@ -1,8 +1,8 @@
-# Database Assistant CLI =�>
+# Database Assistant CLI
 
 A powerful, AI-driven command-line interface for interacting with databases through natural language. Connect to any database, ask questions, and visualize data with intelligent agent-based processing.
 
-## =� Features
+## Features
 
 - **Universal Database Support**: MySQL, PostgreSQL, MongoDB, Redis, SQLite
 - **Natural Language Queries**: Ask questions in plain English
@@ -12,7 +12,7 @@ A powerful, AI-driven command-line interface for interacting with databases thro
 - **Session Management**: Persistent connections and schema caching
 - **Export Functionality**: Save conversations and analysis results
 
-## =� Table of Contents
+## Table of Contents
 
 - [Quick Start](#quick-start)
 - [Installation](#installation)
@@ -25,7 +25,7 @@ A powerful, AI-driven command-line interface for interacting with databases thro
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 
-## <� Quick Start
+## Quick Start
 
 ```bash
 # 1. Clone the repository
@@ -49,7 +49,7 @@ Once running, try these commands:
 /query what are the top 10 most active users?
 ```
 
-## =� Installation
+## Installation
 
 ### Prerequisites
 
@@ -133,7 +133,7 @@ sqlite:///path/to/database.db
 redis://user:password@host:port/database
 ```
 
-## =� Usage Guide
+## Usage Guide
 
 ### Starting the Application
 
@@ -432,18 +432,18 @@ python main.py
 /connect postgresql://test:test@localhost:5432/test
 ```
 
-## =� License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## =O Acknowledgments
+## Acknowledgments
 
 - [smolagents](https://github.com/huggingface/smolagents) - AI agent framework
 - [Rich](https://github.com/Textualize/rich) - Terminal formatting
 - [OpenAI](https://openai.com/) - Language model API
 - Database driver maintainers and communities
 
-## = Links
+## Links
 
 - [OpenAI API Keys](https://platform.openai.com/api-keys)
 - [UV Package Manager](https://github.com/astral-sh/uv)
