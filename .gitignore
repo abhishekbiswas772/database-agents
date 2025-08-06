@@ -351,3 +351,4 @@ service-account.json
 .env.production
 
 .chat_history
+.claude
